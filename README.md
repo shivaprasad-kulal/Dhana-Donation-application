@@ -1,5 +1,7 @@
 # Dhana-Donation-application
 
+The Donation Receipt Management System is an application designed specifically for temple administrations to efficiently manage and organize donation receipts. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+
 
 !============================LOGIN PAGE==========================================!
 
