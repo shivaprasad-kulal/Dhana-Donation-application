@@ -1,0 +1,42 @@
+.App22 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    width: 500px;
+    height: fit-content;
+    background-color: #fff;
+    box-shadow: 0 4px 18px rgba(32, 25, 25, 0.2);
+    align-items: center;
+    padding: 2rem;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  input {
+    display: block;
+    width: 20rem;
+    height: 2rem;
+    padding: 0.5rem;
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 2rem;
+  }
+  button {
+    border: none;
+    padding: 1rem;
+    width: 41.2rem;
+    font-size: 1.2em;
+    border-radius: 10px;
+    background-color: #e7dde8;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #d8ddd8;
+  }
+  .message {
+    font-size: 1.2em;
+    text-align: center;
+    color: #36a936;
+  }
+  
